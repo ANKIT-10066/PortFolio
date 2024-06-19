@@ -47,8 +47,8 @@ export const projects = [
       "React-libraries",
       "Vercel",
     ],
-    github: "https://github.com/",
-    webapp: "/",
+    github: "https://github.com/ANKIT-10066/PortFolio",
+    webapp: "https://my-portfolio-ankit-10066.vercel.app/",
   },
   {
     id: "3",
